@@ -119,5 +119,10 @@ Azure machine learning -- is a platform for making predictions. It consists of t
 
 #### Az cognitive services 
 - contains ready to use machine learning models Use Azure Cognitive Services to solve general problems, such as analyzing text for emotional sentiment or analyzing images to recognize objects or faces. You don't need special machine learning or data science knowledge to use these services.
+-Vision
+Speech
+Language
+Decision
+Search
 
 
