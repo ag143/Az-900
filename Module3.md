@@ -1,4 +1,9 @@
-[anchor link to big data](#big-data)
+# Module 3 Az 900 CORE SOLUTION
+
+### [anchor link to big data](#big-data)
+### [AI and ML](#ai-and-ml)
+### Serverless
+### [Devops](#devops)
 
 
 ### What is Internet of Things?
