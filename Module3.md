@@ -4,6 +4,8 @@
 ### [AI and ML](#ai-and-ml)
 ### Serverless
 ### [Devops](#devops)
+### azure advisor
+### azure monitor
 
 
 ### What is Internet of Things?
