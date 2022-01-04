@@ -86,14 +86,15 @@ Video, Social Media
 ## Azure Synapse Analytics
 Big data analytics platform (PaaS)
 Multiple components
-- [] Azure Synapse is an enterprise analytics service that accelerates time to insight across data warehouses and big data systems. Azure Synapse brings together the best of SQL technologies used in enterprise data warehousing, Spark technologies used for big data, Data Explorer for log and time series analytics, Pipelines for data integration and ETL/ELT, and deep integration with other Azure services such as Power BI, CosmosDB, and AzureML.
+- [x] Azure Synapse is an enterprise analytics service that accelerates time to insight across data warehouses and big data systems. Azure Synapse brings together the best of SQL technologies used in enterprise data warehousing, Spark technologies used for big data, Data Explorer for log and time series analytics, Pipelines for data integration and ETL/ELT, and deep integration with other Azure services such as Power BI, CosmosDB, and AzureML.
 
 ## Azure HDInsight
 Flexible multi-purpose big data platform (PaaS)
 Multiple technologies supported (Hadoop, Spark, Kafka, HBase, Hive, Storm, Machine Learning)
 
 ## Azure Databricks
-Big data collaboration platform (PaaS)
-Unified workspace for notebook, cluster, data, access management and collaboration
-Based on Apache Spark
-Integrates very well with common Azure data services
+- Big data collaboration platform (PaaS)
+- Use your preferred language, including Python, Scala, R, Spark SQL and .Net—whether you use serverless or provisioned compute resources
+- Unified workspace for notebook, cluster, data, access management and collaboration
+- Based on Apache Spark 
+- Integrates very well with common Azure data services like Azure Data Factory, Azure Data Lake Storage, Azure Machine Learning, and Power BI.
