@@ -99,3 +99,25 @@ Multiple components
 - Unified workspace for notebook, cluster, data, access management and collaboration
 - Based on Apache Spark 
 - Integrates very well with common Azure data services like Azure Data Factory, Azure Data Lake Storage, Azure Machine Learning, and Power BI.
+
+# AI and ML
+### What is Artificial Intelligence?
+Artificial Intelligence (AI) is the simulation of human intelligence & capabilities by computer software.
+Eg -- how gmail suggests auto replies & email filter -- looks spam
+How Google maps find quickest route for you
+Chatbots like Microsoft Cortana,Alexa are also AI powered 
+
+### What is Machine Learning?
+Machine Learning is a subcategory of AI where a computer software is “taught” to draw conclusions and make predictions from data.
+
+For example, when you shop online, machine learning powers product recommendation systems that offer additional products based on what you've bought and what other shoppers have bought who have purchased similar items in the past.
+
+#### Azure Machine Learning
+Cloud-based platform for creating, managing and publishing machine learning models
+Platform as a Service (PaaS)
+Azure machine learning -- is a platform for making predictions. It consists of tools and services that allow you to connect to data to train and test models to find one that will most accurately predict a future result.
+
+#### Az cognitive services 
+- contains ready to use machine learning models Use Azure Cognitive Services to solve general problems, such as analyzing text for emotional sentiment or analyzing images to recognize objects or faces. You don't need special machine learning or data science knowledge to use these services.
+
+
