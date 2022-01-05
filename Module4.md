@@ -28,5 +28,10 @@ Paid (Azure Defender ON) – hybrid security, threat protection alerts, vulnerab
 ## Azure Key Vault 
 - Azure Key Vault is a cloud service for securely storing and accessing secrets. A secret is anything that you want to tightly control access to, such as API keys, passwords, certificates, or cryptographic keys.
 
+## Azure Dedicated Host 
+- A dedicated physical server to host your Azure VMs for Windows and Linux
+- so server rack not shared with other customers. This host-level isolation helps address compliance requirements. As you provision the host, you gain visibility into and control over the placement of your Azure VMs and you determine the host's maintenance policies
+- Offers pricing and benefits for Windows Server and SQL Server available only on Azure
+
 [Security Center ](https://www.ibm.com/in-en/topics/siem)
 
