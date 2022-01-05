@@ -1,6 +1,6 @@
 Security Information and Event Management (SIEM) is a set of tools and services offering a holistic view of an organization's information security. SIEM tools provide: Real-time visibility across an organization's information security systems. Event log management that consolidates data from numerous sources.
 
-### Security Centre 
+## Azure Security Centre 
 
 > Azure Security Center and Azure Defender are now called Microsoft Defender for Cloud
 
@@ -18,5 +18,15 @@ Two tiers
 Free (Azure Defender OFF) – included in all Azure services, provides continuous assessments, security score, and actionable security recommendations
 Paid (Azure Defender ON) – hybrid security, threat protection alerts, vulnerability scanning, just in time (JIT) VM access, etc.
 
+## Azure Sentinel
+
+**Now called as MS Sentinel**
+- It provides a `birds eye view of your org
+- Microsoft Sentinel delivers intelligent security analytics and threat intelligence across the enterprise, providing a single solution for attack detection, threat visibility, proactive hunting, and threat response
+- Investigate threats with artificial intelligence, and hunt for suspicious activities at scale, tapping into years of cyber security work at Microsoft.
+
+## Azure Key Vault 
+- Azure Key Vault is a cloud service for securely storing and accessing secrets. A secret is anything that you want to tightly control access to, such as API keys, passwords, certificates, or cryptographic keys.
 
 [Security Center ](https://www.ibm.com/in-en/topics/siem)
+
