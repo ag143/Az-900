@@ -60,3 +60,12 @@ Built-in and Custom roles are supported
 
 ### Resource locks 
 `Resource locks apply regardless of RBAC permissions. Even if you're an owner of the resource, you must still remove the lock before you can perform the blocked activity.`
+
+To make the protection process more robust, you can combine resource locks with Azure Blueprints. Azure Blueprints enables you to define the set of standard Azure resources that your organization requires. For example, you can define a blueprint that specifies that a certain resource lock must exist. Azure Blueprints can automatically replace the resource lock if that lock is removed.
+
+### Azure Policy
+A service in Azure that enables you to create, assign, and manage policies that control or audit your resources. 
+
+- Azure Policy evaluates your resources and highlights resources that aren't compliant with the policies you've created. Azure Policy can also prevent noncompliant resources from being created.
+- you can define both individual policies and groups of related policies, known as initiatives.
+- **Build in policy for compute, Networking** - if you define a policy that allows only a certain SKU (stock-keeping unit) size for the virtual machines (VMs) to be used in your environment, that policy is invoked when you create a new VM and whenever you resize existing VMs.
