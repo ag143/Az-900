@@ -72,6 +72,7 @@ A service in Azure that enables you to create, assign, and manage policies that 
 - create custom policy like -- Restrict resource deployment to a particular region only. 
 
 ### Azure Blueprint
+**Enabling quick, repeatable creation of governed environments**
 With Azure Blueprints, the relationship between the blueprint definition (what should be deployed) and the blueprint assignment (what was deployed) is preserved. This connection supports improved tracking and auditing of deployments. 
 - #### Package of various Azure components (artifacts)
 - Resource Groups
