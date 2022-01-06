@@ -38,6 +38,8 @@ Paid (Azure Defender ON) – hybrid security, threat protection alerts, vulnerab
 
 - A defense-in-depth strategy uses a series of mechanisms to slow the advance of an attack that aims at acquiring unauthorized access to data.
 
+`Benefit is` :- slows down an attack and provides alert telemetry that security teams can act upon, either automatically or manually.
+
 
 ## Azure DDoS Protection
 - Backed by the Microsoft global network, DDoS Protection brings massive DDoS mitigation capacity to every Azure region. Filter traffic at the Azure network edge before it can impact the availability of your service.
