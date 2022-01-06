@@ -57,3 +57,6 @@ Role assignment is a combination of the role definition, security principal and 
 Hierarchical
 Management Groups > Subscriptions > Resource Groups > Resources
 Built-in and Custom roles are supported
+
+### Resource locks 
+`Resource locks apply regardless of RBAC permissions. Even if you're an owner of the resource, you must still remove the lock before you can perform the blocked activity.`
