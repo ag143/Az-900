@@ -73,7 +73,8 @@ A service in Azure that enables you to create, assign, and manage policies that 
 
 ### Azure Blueprint
 **Enabling quick, repeatable creation of governed environments**
-With Azure Blueprints, the relationship between the blueprint definition (what should be deployed) and the blueprint assignment (what was deployed) is preserved. This connection supports improved tracking and auditing of deployments. 
+- Helps Govern Multiple Subscription 
+- With Azure Blueprints, the relationship between the blueprint definition (what should be deployed) and the blueprint assignment (what was deployed) is preserved. This connection supports improved tracking and auditing of deployments. 
 - #### Package of various Azure components (artifacts)
 - Resource Groups
 - ARM Templates
