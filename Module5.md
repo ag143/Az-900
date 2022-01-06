@@ -58,6 +58,8 @@ Hierarchical
 Management Groups > Subscriptions > Resource Groups > Resources
 Built-in and Custom roles are supported
 
+[Azure AD vs RBAC](https://tutorialsdojo.com/azure-active-directory-ad-vs-role-based-access-control-rbac/)
+
 ### Resource locks 
 `Resource locks apply regardless of RBAC permissions. Even if you're an owner of the resource, you must still remove the lock before you can perform the blocked activity.`
 
