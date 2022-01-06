@@ -1,3 +1,13 @@
+### Multi-factor Authentication (MFA)
+Process of authentication using more than one factor (evidence) to prove identity
+Factor types
+- Knowledge Factor – “Something you know”, ex. password, pin
+- Possession Factor – “Something you have”, ex. phone, token, card, key
+- Physical Characteristic Factor – “Something you are”, ex. fingerprint, voice, face, eye iris
+- Location Factor – “Somewhere you are”, ex. GPS location
+Supported by Azure AD by default (simple on-off switch)
+
+
 ## Azure Active Directory
 - Identity and Access Management service in Azure
 - Identities management – users, groups, applications
@@ -11,14 +21,6 @@ Live.com services (Skype, OneDrive, etc.)
 Login (give credentials once, açcess all services) eg - Login into one Google account, get signed into all other services like Gmail, YouTube, drive etc.
 
 
-### Multi-factor Authentication (MFA)
-Process of authentication using more than one factor (evidence) to prove identity
-Factor types
-- Knowledge Factor – “Something you know”, ex. password, pin
-- Possession Factor – “Something you have”, ex. phone, token, card, key
-- Physical Characteristic Factor – “Something you are”, ex. fingerprint, voice, face, eye iris
-- Location Factor – “Somewhere you are”, ex. GPS location
-Supported by Azure AD by default (simple on-off switch)
 
 ## RBAC
 #### What is a Role?
