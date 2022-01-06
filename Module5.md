@@ -63,8 +63,6 @@ Built-in and Custom roles are supported
 ### Resource locks 
 `Resource locks apply regardless of RBAC permissions. Even if you're an owner of the resource, you must still remove the lock before you can perform the blocked activity.`
 
-To make the protection process more robust, you can combine resource locks with Azure Blueprints. Azure Blueprints enables you to define the set of standard Azure resources that your organization requires. For example, you can define a blueprint that specifies that a certain resource lock must exist. Azure Blueprints can automatically replace the resource lock if that lock is removed.
-
 ### Azure Policy
 A service in Azure that enables you to create, assign, and manage policies that control or audit your resources. 
 
@@ -72,3 +70,17 @@ A service in Azure that enables you to create, assign, and manage policies that 
 - you can define both individual policies and groups of related policies, known as initiatives.
 - **Build in policy for compute, Networking** - if you define a policy that allows only a certain SKU (stock-keeping unit) size for the virtual machines (VMs) to be used in your environment, that policy is invoked when you create a new VM and whenever you resize existing VMs.
 - create custom policy like -- Restrict resource deployment to a particular region only. 
+
+### Azure Blueprint
+With Azure Blueprints, the relationship between the blueprint definition (what should be deployed) and the blueprint assignment (what was deployed) is preserved. This connection supports improved tracking and auditing of deployments. 
+- Package of various Azure components (artifacts)
+- Resource Groups
+- ARM Templates
+- Policy Assignments
+- Role Assignments
+- Centralized storage for organizationally approved design patterns
+1. Blueprint definition – describing what should happen (reusable package)
+2. Blueprint assignment – describing where it should happen (package deployment)
+
+> To make the protection process more robust, you can combine resource locks with Azure Blueprints. Azure Blueprints enables you to define the set of standard Azure resources that your organization requires. For example, you can define a blueprint that specifies that a certain resource lock must exist. Azure Blueprints can automatically replace the resource lock if that lock is removed.
+
