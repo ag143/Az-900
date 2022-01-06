@@ -37,7 +37,10 @@ Paid (Azure Defender ON) – hybrid security, threat protection alerts, vulnerab
 - Backed by the Microsoft global network, DDoS Protection brings massive DDoS mitigation capacity to every Azure region. Filter traffic at the Azure network edge before it can impact the availability of your service.
 - Cover all resources on a virtual network when you enable Azure DDoS Protection via simplified configuration. 
 - `DDoS Protection automatically mitigates the attack as soon as it’s detected`
-- The DDoS Protection service will have a fixed monthly charg
+- The DDoS Protection service will have a fixed monthly charge
+
+## Real life use -- 
+> Deployed with Azure Application Gateway Web Application Firewall, DDoS Protection defends against a comprehensive set of network layer (layer 3/4) attacks, and protects web apps from common application layer (layer 7) attacks, such as SQL injection, cross-site scripting attacks, and session hijacks. Web Application Firewall comes preconfigured to handle threats identified by the Open Web Application Security Project top 10 common vulnerabilities.
 
 [Security Center ](https://www.ibm.com/in-en/topics/siem)
 
