@@ -11,12 +11,18 @@ Supported by Azure AD by default (simple on-off switch)
 ## Azure Active Directory
 - Identity and Access Management service in Azure
 - Identities management – users, groups, applications
-- Access management – subscriptions, resource groups, roles, role assignments, authentication & authorization settings, etc.
-- Used by multiple Microsoft cloud platforms
+- `IT Administrators` can use Azure AD to control access to applications and resources based on their business requirements
+- `Application management`
+You can manage your cloud and on-premises apps by using Azure AD. 
+Access management – subscriptions, resource groups, roles, role assignments, authentication & authorization settings, etc.
+-  `device management` It also allows for device-based Conditional Access policies to restrict access attempts to only those coming from known devices, regardless of the requesting user account.
+- U can also `connect to your existing AD using Azure AD connect`
+sed by multiple Microsoft cloud platforms
 Azure
 Microsoft 365
 Office 365
 Live.com services (Skype, OneDrive, etc.)
+
 ### single sign on 
 Login (give credentials once, açcess all services) eg - Login into one Google account, get signed into all other services like Gmail, YouTube, drive etc.
 
