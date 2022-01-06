@@ -69,3 +69,4 @@ A service in Azure that enables you to create, assign, and manage policies that 
 - Azure Policy evaluates your resources and highlights resources that aren't compliant with the policies you've created. Azure Policy can also prevent noncompliant resources from being created.
 - you can define both individual policies and groups of related policies, known as initiatives.
 - **Build in policy for compute, Networking** - if you define a policy that allows only a certain SKU (stock-keeping unit) size for the virtual machines (VMs) to be used in your environment, that policy is invoked when you create a new VM and whenever you resize existing VMs.
+- create custom policy like -- Restrict resource deployment to a particular region only. 
