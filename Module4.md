@@ -47,6 +47,10 @@ Paid (Azure Defender ON) – hybrid security, threat protection alerts, vulnerab
 - `DDoS Protection automatically mitigates the attack as soon as it’s detected`
 - The DDoS Protection service will have a fixed monthly charge
 
+## Defence in Depth Reviewed
+The perimeter layer uses distributed denial of service (DDoS) protection to filter large-scale attacks before they can cause a denial of service for users.
+The network layer limits communication between resources through segmentation and access controls.
+
 ## Real life use -- 
 > Deployed with Azure Application Gateway Web Application Firewall, DDoS Protection defends against a comprehensive set of network layer (layer 3/4) attacks, and protects web apps from common application layer (layer 7) attacks, such as SQL injection, cross-site scripting attacks, and session hijacks. Web Application Firewall comes preconfigured to handle threats identified by the Open Web Application Security Project top 10 common vulnerabilities.
 
