@@ -94,3 +94,7 @@ The Cloud Adoption Framework includes these stages:
 - Ready your organization.
 - Adopt the cloud.
 - Govern and manage your cloud environments.
+
+## Compliance 
+In general, compliance means to adhere to a law, standard, or set of guidelines. Regulatory compliance refers to the discipline and process of ensuring that a company follows the laws that governing bodies enforce
+
