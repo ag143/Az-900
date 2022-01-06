@@ -33,5 +33,11 @@ Paid (Azure Defender ON) – hybrid security, threat protection alerts, vulnerab
 - so server rack not shared with other customers. This host-level isolation helps address compliance requirements. As you provision the host, you gain visibility into and control over the placement of your Azure VMs and you determine the host's maintenance policies
 - Offers pricing and benefits for Windows Server and SQL Server available only on Azure
 
+## Azure DDoS Protection
+- Backed by the Microsoft global network, DDoS Protection brings massive DDoS mitigation capacity to every Azure region. Filter traffic at the Azure network edge before it can impact the availability of your service.
+- Cover all resources on a virtual network when you enable Azure DDoS Protection via simplified configuration. 
+- `DDoS Protection automatically mitigates the attack as soon as it’s detected`
+- The DDoS Protection service will have a fixed monthly charg
+
 [Security Center ](https://www.ibm.com/in-en/topics/siem)
 
