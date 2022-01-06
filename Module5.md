@@ -86,3 +86,11 @@ A service in Azure that enables you to create, assign, and manage policies that 
 
 > To make the protection process more robust, you can combine resource locks with Azure Blueprints. Azure Blueprints enables you to define the set of standard Azure resources that your organization requires. For example, you can define a blueprint that specifies that a certain resource lock must exist. Azure Blueprints can automatically replace the resource lock if that lock is removed.
 
+### Azure Cloud Adoptation Framework
+The Cloud Adoption Framework includes these stages:
+
+- Define your strategy.
+- Make a plan.
+- Ready your organization.
+- Adopt the cloud.
+- Govern and manage your cloud environments.
