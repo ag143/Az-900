@@ -33,6 +33,12 @@ Paid (Azure Defender ON) – hybrid security, threat protection alerts, vulnerab
 - so server rack not shared with other customers. This host-level isolation helps address compliance requirements. As you provision the host, you gain visibility into and control over the placement of your Azure VMs and you determine the host's maintenance policies
 - Offers pricing and benefits for Windows Server and SQL Server available only on Azure
 
+# Defence in Depth 
+- The objective of defense in depth is to protect information and prevent it from being stolen by those who aren't authorized to access it.
+
+- A defense-in-depth strategy uses a series of mechanisms to slow the advance of an attack that aims at acquiring unauthorized access to data.
+
+
 ## Azure DDoS Protection
 - Backed by the Microsoft global network, DDoS Protection brings massive DDoS mitigation capacity to every Azure region. Filter traffic at the Azure network edge before it can impact the availability of your service.
 - Cover all resources on a virtual network when you enable Azure DDoS Protection via simplified configuration. 
