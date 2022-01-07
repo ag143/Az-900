@@ -93,6 +93,22 @@ A service in Azure that enables you to create, assign, and manage policies that 
 - **Build in policy for compute, Networking** - if you define a policy that allows only a certain SKU (stock-keeping unit) size for the virtual machines (VMs) to be used in your environment, that policy is invoked when you create a new VM and whenever you resize existing VMs.
 - create custom policy like -- Restrict resource deployment to a particular region only. 
 
+### Azure Blueprints
+
+-----
+Let me ask you a question. Would you consider building a house without knowing what it would look like when you're done? The supplies needed? Ofcourse No 😏
+-----
+> So as a Cloud Engineer Deviating from my company's design principles and best practices increases support costs and leads to unhappy customers. 
+
+Azure Blueprints use existing Azure services like Azure Policies, permissions and ARM templates to give you control of the rollout of your environment. 
+
+These building blocks of Azure 🔵 Blueprint are known as Artifact's
+- ARM Templates - Use It for creation of resources
+- Resource Groups - Specify the resource groups you want to create
+- Roles Assignments - Apply IAM roles to the deployed resource groups to apply permissions to users and/or groups
+- Policies Assignments - Apply Azure Policies and/or Initiatives to your environments
+
+
 ### Cloud Adoptation Framework
 Cloud Adoption Framework consists of tools, documentation, and proven practices. The Cloud Adoption Framework includes these stages:
 
