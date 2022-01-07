@@ -26,6 +26,21 @@ Live.com services (Skype, OneDrive, etc.)
 ### single sign on 
 Login (give credentials once, açcess all services) eg - Login into one Google account, get signed into all other services like Gmail, YouTube, drive etc.
 
+### Conditional Access
+
+- #### User or group membership
+Policies can be targeted to specific users and groups giving administrators fine-grained control over access.
+- #### IP Location information
+Organizations can create trusted IP address ranges that can be used when making policy decisions.
+Administrators can specify entire countries/regions IP ranges to block or allow traffic from.
+Device
+Users with devices of specific platforms or marked with a specific state can be used when enforcing Conditional Access policies.
+Application
+Users attempting to access specific applications can trigger different Conditional Access policies.
+- #### Real-time and calculated risk detection
+Signals integration with Azure AD Identity Protection allows Conditional Access policies to identify risky sign-in behavior. Policies can then force users to change their password, do multi-factor authentication to reduce their risk level, or block access until an administrator takes manual action.
+- #### Microsoft Defender for Cloud Apps
+Enables user application access and sessions to be monitored and controlled in real time, increasing visibility and control over access to and activities done within your cloud environment.
 
 
 ## RBAC
@@ -58,10 +73,10 @@ Hierarchical
 Management Groups > Subscriptions > Resource Groups > Resources
 Built-in and Custom roles are supported
 
-[Azure AD vs RBAC](https://tutorialsdojo.com/azure-active-directory-ad-vs-role-based-access-control-rbac/)
-
 ### Resource locks 
 `Resource locks apply regardless of RBAC permissions. Even if you're an owner of the resource, you must still remove the lock before you can perform the blocked activity.`
+
+To make the protection process more robust, you can combine resource locks with Azure Blueprints. Azure Blueprints enables you to define the set of standard Azure resources that your organization requires. For example, you can define a blueprint that specifies that a certain resource lock must exist. Azure Blueprints can automatically replace the resource lock if that lock is removed.
 
 ### Azure Policy
 A service in Azure that enables you to create, assign, and manage policies that control or audit your resources. 
@@ -71,30 +86,11 @@ A service in Azure that enables you to create, assign, and manage policies that 
 - **Build in policy for compute, Networking** - if you define a policy that allows only a certain SKU (stock-keeping unit) size for the virtual machines (VMs) to be used in your environment, that policy is invoked when you create a new VM and whenever you resize existing VMs.
 - create custom policy like -- Restrict resource deployment to a particular region only. 
 
-### Azure Blueprint
-**Enabling quick, repeatable creation of governed environments**
-- Helps Govern Multiple Subscription 
-- With Azure Blueprints, the relationship between the blueprint definition (what should be deployed) and the blueprint assignment (what was deployed) is preserved. This connection supports improved tracking and auditing of deployments. 
-- #### Package of various Azure components (artifacts)
-- Resource Groups
-- ARM Templates
-- Policy Assignments
-- Role Assignments
-- Centralized storage for organizationally approved design patterns
-1. Blueprint definition – describing what should happen (reusable package)
-2. Blueprint assignment – describing where it should happen (package deployment)
-
-> To make the protection process more robust, you can combine resource locks with Azure Blueprints. Azure Blueprints enables you to define the set of standard Azure resources that your organization requires. For example, you can define a blueprint that specifies that a certain resource lock must exist. Azure Blueprints can automatically replace the resource lock if that lock is removed.
-
-### Azure Cloud Adoptation Framework
-The Cloud Adoption Framework includes these stages:
+### Cloud Adoptation Framework
+Cloud Adoption Framework consists of tools, documentation, and proven practices. The Cloud Adoption Framework includes these stages:
 
 - Define your strategy.
 - Make a plan.
 - Ready your organization.
 - Adopt the cloud.
 - Govern and manage your cloud environments.
-
-## Compliance 
-In general, compliance means to adhere to a law, standard, or set of guidelines. Regulatory compliance refers to the discipline and process of ensuring that a company follows the laws that governing bodies enforce
-
