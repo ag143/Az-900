@@ -2,6 +2,7 @@
 
 [Azure Policy](#azure-policy)
 
+[Azure Blueprint](#azure-blueprint)
 
 
 
