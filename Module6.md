@@ -24,6 +24,9 @@ You may choose a cheaper region but data transfer cost also applies.
 
 5. **Reserved Instance**
 `Prepay or commit your resource usuage... in turn you get huge discounts 🤑`
+- Azure Reservations can save you up to 72 percent as compared to pay-as-you-go prices. To receive a discount, you reserve services and resources by paying in advance.
+For example, you can prepay for one year or three years of use of VMs, database compute capacity, database throughput, and other Azure resources.
 
 6. **Hybrid use benefit** 
-``
+`use your present license,save money😁`
+- If you've purchased licenses for Windows Server or SQL Server, and your licenses are covered by Software Assurance, you might be able to repurpose those licenses on VMs on Azure.
