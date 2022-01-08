@@ -22,5 +22,8 @@ You may choose a cheaper region but data transfer cost also applies.
 4. **Bandwidth**
 `Data into Azure free; outside Costs money 💲💵`
 
+5. **Reserved Instance**
+`Prepay or commit your resource usuage... in turn you get huge discounts 🤑`
 
-
+6. **Hybrid use benefit** 
+``
