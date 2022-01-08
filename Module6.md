@@ -40,10 +40,12 @@ For example, you can prepay for one year or three years of use of VMs, database 
         - more services means more complex and more risky application
   
 **Example** - 
+[!applications](https://docs.microsoft.com/en-us/learn/azure-fundamentals/choose-azure-services-sla-lifecycle/media/4-special-orders-architecture.svg)
+
 | Service| SLA |
 |------| ----- |
 | VM | 99.9|
 | SQL | 99.99 |
 | Azure Load Balancer | 99.99 |
 
-**Composite SLA (Your Application's Uptime or Application SLA)** = 99.9% × 99.9% x 99.99% x 99.99% = 0.999 x 0.999 x 0.9999 x 0.9999 = 0.9978 = **99.78**
+**Composite SLA (Your Application's Uptime or Application SLA)** = 99.9% × 99.9% x 99.99% x 99.99% = 0.999 x 0.999 x 0.9999 x 0.9999 = 0.9978 = **99.78%**
