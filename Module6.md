@@ -40,6 +40,6 @@ For example, you can prepay for one year or three years of use of VMs, database 
         - more services means more complex and more risky application
   
          **Example** - 
-           | Service | SLA |
-            --------. -----
+           | Service| SLA |
+           |--------| ----- |
            | VM | 99.9|
