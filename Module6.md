@@ -30,3 +30,16 @@ For example, you can prepay for one year or three years of use of VMs, database 
 6. **Hybrid use benefit** 
 `use your present license,save money😁`
 - If you've purchased licenses for Windows Server or SQL Server, and your licenses are covered by Software Assurance, you might be able to repurpose those licenses on VMs on Azure.
+
+# SLA
+
+### What effects your SLA
+- To ensure high availability, you might plan for your application to have duplicate components across several regions, known as redundancy. 
+        - To reduce cost, you can also shut down the above extra capacity for non critical time (like midnight)
+- Adding More services reduces SLA .... Why ?? <br>
+        - more services means more complex and more risky application
+  
+         **Example** - 
+           | Service | SLA |
+            --------. -----
+           | VM | 99.9|
