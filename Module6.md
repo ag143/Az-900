@@ -31,6 +31,29 @@ For example, you can prepay for one year or three years of use of VMs, database 
 `use your present license,save money😁`
 - If you've purchased licenses for Windows Server or SQL Server, and your licenses are covered by Software Assurance, you might be able to repurpose those licenses on VMs on Azure.
 
+## minimising cost
+
+#### Azure Cost Management
+- A centralized service for reporting usage and billing of Azure environment
+- Self-service cost exploration capabilities
+- Budgets & alerts
+- Cost recommendations
+- Automated exports
+
+#### Minimizing Costs in Azure
+- Azure Pricing Calculator to choose the low-cost region
+Good latency
+All required services are available
+Data sovereignty/compliance requirements
+- Hybrid use benefit and Azure Reservations
+- Azure Cost Management monitoring, budgets, alerts and recommendations
+- Understand service lifecycle and automate environments
+- Use autoscaling features to your advantage
+- `Azure Monitor to find and scale down underutilized resources`
+- Use tags & policies for effective governance
+ 
+
+
 # SLA
 
 ### What effects your SLA
