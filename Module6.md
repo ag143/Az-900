@@ -97,3 +97,22 @@ Availability(both-web) = 1 – ( 0.0005 * 0.0005 )
 Availability(both-web) = 1 – 0.00000025
 Availability(both-web) = 0.99999975
 Availability(both-web) ~ 99.9999%
+
+## Service lifecycle
+
+After developing services for Microsoft Azure to test them Microsoft Microsoft after developing launches them for public preview and then after working on feedbacks and improving it. Launches for general public (known as Generally Available)
+
+
+- Every service in Azure follows its own service lifecycle
+- Public preview is a ‘beta’ stage of the service available to general public use
+- Features can also be in preview stages
+       • Designed for testing, not production solutions
+- General availability is a ‘production’ release of the service
+
+### Public Preview Key Info
+- No SLA
+- Some services have no support coverage
+- Limited region availability
+- Limited functionality
+- Pricing changes
+- A dedicated portal to check all  previews . [Azure Portal Previews](https://preview.portal.azure.com)
