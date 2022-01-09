@@ -8,7 +8,7 @@
 
 [Cloud adoption framework](#cloud-adoption-framework)
 
-[Can you trust Azure ?](#azure-compliance-and-privacy)
+[Can you trust Azure ? --> Azure Compliance, Azure US Gov](#azure-compliance-and-privacy)
 
 ### Multi-factor Authentication (MFA)
 Process of authentication using more than one factor (evidence) to prove identity
