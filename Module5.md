@@ -4,7 +4,7 @@
 
 [Azure Blueprint](#azure-blueprints)
 
-
+[Can you trust Azure ?](#azure-compliance-and-privacy)
 
 ### Multi-factor Authentication (MFA)
 Process of authentication using more than one factor (evidence) to prove identity
