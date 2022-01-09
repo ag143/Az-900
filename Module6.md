@@ -2,6 +2,8 @@
 
 [SLA](#what-effects-your-sla)
 
+[Service lifecycle -> public preview and generally available](#service-lifecycle)
+
 # Cost Management 
 
 ### Factors affecting Cost 
