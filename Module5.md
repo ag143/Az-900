@@ -40,6 +40,7 @@ Live.com services (Skype, OneDrive, etc.)
 Login (give credentials once, açcess all services) eg - Login into one Google account, get signed into all other services like Gmail, YouTube, drive etc.
 
 ### Conditional Access
+Simple `if - then` statements... Like `if` user try to  access from outside India `then` do this ...(enforce MFA OR block access)
 
 - #### User or group membership
 Policies can be targeted to specific users and groups giving administrators fine-grained control over access.
