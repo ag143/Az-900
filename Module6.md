@@ -65,6 +65,8 @@ Data sovereignty/compliance requirements
         - To reduce cost, you can also shut down the above extra capacity for non critical time (like midnight)
 - Adding More services reduces SLA .... Why ?? <br>
         - more services means more complex and more risky application
+
+[Check SLA HERE (from MS Website)](https://azure.microsoft.com/en-us/support/legal/sla/summary/)
   
 **Example** - 
 ![This is the architecture ](https://docs.microsoft.com/en-us/learn/azure-fundamentals/choose-azure-services-sla-lifecycle/media/4-special-orders-architecture.svg)
