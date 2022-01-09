@@ -74,3 +74,26 @@ Data sovereignty/compliance requirements
 | Azure Load Balancer | 99.99 |
 
 **Composite SLA (Your Application's Uptime or Application SLA)** = 99.9% × 99.9% x 99.99% x 99.99% = 0.999 x 0.999 x 0.9999 x 0.9999 = 0.9978 = **99.78%**
+
+### Logical AND - adding dependency
+
+**Availability of S1 AND S2 = Availability(S1) * Availability(S2)**
+
+##### Scenario - Azure website with SQL backend db
+Availability = Availability(web) app * Availability(sql)
+Availability = 99.95% * 99.95%
+Availability = 0.9995 * 0.9995
+Availability = 0.99900025
+Availability ~ 99.9%
+
+### Logical OR - adding redundancy
+
+**Availability of S1 OR S2 = 100% - ( Unvailability(S1) * Unvailability(S2) )**
+
+Scenario - Two redundant web apps behind a load balancer
+Availability(both-web) = 100% - ( Unvailability(web1) * Unvailability(web2) )
+Availability(both-web) = 100% - ( 0.05% * 0.05% )
+Availability(both-web) = 1 – ( 0.0005 * 0.0005 )
+Availability(both-web) = 1 – 0.00000025
+Availability(both-web) = 0.99999975
+Availability(both-web) ~ 99.9999%
