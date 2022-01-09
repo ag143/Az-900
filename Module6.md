@@ -40,7 +40,7 @@ For example, you can prepay for one year or three years of use of VMs, database 
         - more services means more complex and more risky application
   
 **Example** - 
-[!applications](https://docs.microsoft.com/en-us/learn/azure-fundamentals/choose-azure-services-sla-lifecycle/media/4-special-orders-architecture.svg)
+![This is the architecture ](https://docs.microsoft.com/en-us/learn/azure-fundamentals/choose-azure-services-sla-lifecycle/media/4-special-orders-architecture.svg)
 
 | Service| SLA |
 |------| ----- |
