@@ -1,4 +1,6 @@
+[minimising cost](#minimising-cost)
 
+[SLA](#what-effects-your-sla)
 
 # Cost Management 
 
