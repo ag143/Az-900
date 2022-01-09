@@ -6,7 +6,7 @@
 
 [Azure Blueprint](#azure-blueprints)
 
-[Cloud adoption framework](#cloud-adoption-framework)
+[Cloud adoption framework](#cloud-adoptation-framework)
 
 [Can you trust Azure ? --> Azure Compliance, Azure US Gov](#azure-compliance-and-privacy)
 
@@ -19,6 +19,7 @@ Factor types
 - Location Factor – “Somewhere you are”, ex. GPS location
 Supported by Azure AD by default (simple on-off switch)
 
+> Basic principal of IAM = Give what they need, no extra permission ... (Principle of Least Privilege)
 
 ## Azure Active Directory
 - Identity and Access Management service in Azure
