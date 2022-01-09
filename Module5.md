@@ -6,6 +6,8 @@
 
 [Azure Blueprint](#azure-blueprints)
 
+[Cloud adoption framework](#cloud-adoption-framework)
+
 [Can you trust Azure ?](#azure-compliance-and-privacy)
 
 ### Multi-factor Authentication (MFA)
