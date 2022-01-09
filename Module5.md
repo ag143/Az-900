@@ -118,3 +118,6 @@ Cloud Adoption Framework consists of tools, documentation, and proven practices.
 - Ready your organization.
 - Adopt the cloud.
 - Govern and manage your cloud environments.
+
+# Azure Compliance and Privacy
+🔏 ![✅](https://github.com/Ananyojha/spare-images/blob/main/IMG_20220109_164933.jpg?raw=true)
