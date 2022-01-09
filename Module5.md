@@ -1,5 +1,7 @@
 [RBAC](#rbac)
 
+[Conditional access](#conditional-access)
+
 [Azure Policy](#azure-policy)
 
 [Azure Blueprint](#azure-blueprints)
