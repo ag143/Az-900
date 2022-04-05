@@ -1,6 +1,6 @@
 # Az-900
 ### session related - 
-## [Adam Script](https://marczak.io/az-900/episode-07/cheat-sheet/)
+## [Adam Script](https://marczak.io/az-900/#navigation)
 
 - [Why developers use Cloud](https://www.oreilly.com/library/view/continuous-delivery-in/9781491986011/ch04.html)
 
