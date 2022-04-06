@@ -8,6 +8,8 @@
 
 - [Cloud Computing Terms MS DOCS](https://azure.microsoft.com/en-in/overview/cloud-computing-dictionary/)
 
+- [high Availability, elasticity etc](https://docs.microsoft.com/en-us/learn/modules/fundamental-azure-concepts/benefits-of-cloud-computing)
+
 - [Why developers use Cloud](https://www.oreilly.com/library/view/continuous-delivery-in/9781491986011/ch04.html)
 
 - [ VS CODE, ItelliJ, eclipse with With Azure](https://docs.microsoft.com/en-us/azure/developer/java/fundamentals/java-azure-tools)
