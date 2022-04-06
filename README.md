@@ -6,6 +6,8 @@
 - [x] [BASICS LIKE SUBS, REGION PAIR](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/)
 - [x] [Core compute, storage, db](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
 
+- [Cloud Computing Terms MS DOCS](https://azure.microsoft.com/en-in/overview/cloud-computing-dictionary/)
+
 - [Why developers use Cloud](https://www.oreilly.com/library/view/continuous-delivery-in/9781491986011/ch04.html)
 
 - [ VS CODE, ItelliJ, eclipse with With Azure](https://docs.microsoft.com/en-us/azure/developer/java/fundamentals/java-azure-tools)
