@@ -2,6 +2,8 @@
 ### session related - 
 ## [Adam Script](https://marczak.io/az-900/#navigation)
 
+**Azure Advisor -- It provides recommendations in four categories: High Availability, Security, Performance, and Cost.**
+
 ## Module 2 
 - [x] [BASICS LIKE SUBS, REGION PAIR](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/)
 - [x] [Core compute, storage, db](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
