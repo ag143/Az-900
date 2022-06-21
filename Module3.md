@@ -35,6 +35,7 @@ The way people respond to those insights and connect them to their business, as 
 
 - How cloud helps IoT ?
 Cloud gives the support needed for IoT
+Edge computing refers to bringing the computing power of the cloud to Internet of Things (IoT) devices, close to where the data resides, to reduce latency and gain real-time insights
 
 ## Azure Iot Hub
 - Managed service for bi-directional communication
