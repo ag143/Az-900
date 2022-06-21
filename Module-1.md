@@ -1,3 +1,7 @@
+# Private Cloud : 
+- create cloud like environment in your data center (like use **NAS** : network-attached storage (NAS) device is a data storage device that connects to and is accessed through a network, instead of connecting directly to a computer.)
+- A number of datacentres under 1 single org 
+
 # Hybrid Cloud : 
 - OEM partners : who provide you MS approved hardware to connect to MS
 - NO. of services : expressroute, Azure for VMware, azure sphere etc
