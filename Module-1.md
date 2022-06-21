@@ -18,3 +18,8 @@
 2. Active / passive
 3. Active / active (most costly ---> time is least)
 
+# Serverless 
+enables developers to build applications faster by eliminating the need for them to manage infrastructure. With serverless applications, the cloud service provider automatically provisions, scales and manages the infrastructure required to run the code.
+- Servers are still used but invisible to the developer.
+## use cases : 
+build web applications and mobile backends in a faster, more agile way
