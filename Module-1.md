@@ -1,3 +1,7 @@
+--------
+Cloud is not important only for IT Companies as almost every sector is now IT enabled company - i.e relies heavily on IT like banks, Zomato , vedantu  
+
+-------
 # Private Cloud : 
 - create cloud like environment in your data center (like use **NAS** : network-attached storage (NAS) device is a data storage device that connects to and is accessed through a network, instead of connecting directly to a computer.)
 - A number of datacentres under 1 single org 
