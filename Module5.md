@@ -115,6 +115,7 @@ These building blocks of Azure 🔵 Blueprint are known as Artifact's
 - Roles Assignments - Apply IAM roles to the deployed resource groups to apply permissions to users and/or groups
 - Policies Assignments - Apply Azure Policies and/or Initiatives to your environments
 
+[Example - the following blueprint deploys the governance realted MVP(min viable Product)](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/foundation-blueprint)
 
 ### Cloud Adoptation Framework
 Cloud Adoption Framework consists of tools, documentation, and proven practices. The Cloud Adoption Framework includes these stages:
