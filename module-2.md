@@ -4,3 +4,6 @@
 - can be connected to your on-prem ADDS
 - you can login using web clinet or desktop/andriod/Ios client
 - host pools (the VM's used to create this, all have same os,size)
+
+## Containers 
+Containers are lightweight packages of your application code together with dependencies such as specific versions of programming language runtimes and libraries required to run your software services.
