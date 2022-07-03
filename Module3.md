@@ -118,6 +118,8 @@ Eg -- how gmail suggests auto replies & email filter -- looks spam
 How Google maps find quickest route for you
 Chatbots like Microsoft Cortana,Alexa are also AI powered 
 
+![](https://raw.githubusercontent.com/Ananyojha/spare-images/main/Screenshot_2022-07-03-13-12-58-336_com.google.android.youtube.jpg)
+
 ### What is Machine Learning?
 Machine Learning is a subcategory of AI where a computer software is “taught” to draw conclusions and make predictions from data.
 
