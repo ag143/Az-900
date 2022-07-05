@@ -102,6 +102,16 @@ A service in Azure that enables you to create, assign, and manage policies that 
 
 ### Azure Blueprints
 
+In any enterprise you always have teams that are responsible for defining what and how resources are deployed in your environment. (on-prem, in the cloud or in both).  Your networking team defines the network design, the IP addressing, the routing…  Your security team defines what services are allowed, who has access… Your legal department may have requirements for compliance such as where you can deploy your resources…  You get the picture.
+
+ [ARM TEMPLATE vs BLUEPRINT](https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-blueprints-vs-azure-resource-manager-template-specs/ba-p/2176909)
+
+Without any tools to allow you to tie all these requirements together you end up with a deployment process that can take a long time because every teams wants and needs to sign-off on your deployment.  And it makes it difficult to replicate since in most cases its tied together with custom scripting.
+
+ 
+
+Azure Blueprint allows you to create a way to package all these components together and makes it super easy to “stamp” your blueprint on any environment dev, test, prod or other.
+
 -----
 Let me ask you a question. Would you consider building a house without knowing what it would look like when you're done? The supplies needed? Ofcourse No 😏
 -----
