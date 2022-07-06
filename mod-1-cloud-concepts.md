@@ -63,6 +63,8 @@ Identity and infrastructure
 
 ## Cloud Benefits -- 
 
+[MS-LEARN](https://docs.microsoft.com/en-gb/learn/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud)
+
 
 ## Cloud Services 
 
