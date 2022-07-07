@@ -56,6 +56,7 @@ What you can't do ?
 Portal
 
 ## azure subscription
+[Check here AZ 305 notes](https://github.com/Ananyojha/az-305/blob/main/Module-1.md)
 
 ## azure management group
 
