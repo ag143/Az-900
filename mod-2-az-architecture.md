@@ -5,25 +5,49 @@ you can help them reddem their azure pass
 
 ## Azure Physical Infra
 [MS learn](https://docs.microsoft.com/en-us/learn/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure)
-
-ZONAL SERVICE : azure vm --> create vm --> avaialbility options ---> avialability zones --> select zone 
-ZONE REDUNDANT SERVICE : ZRS In azure storage account 
+**Draw Diagram --:Read slide**
 
 ## Azure Regions 
 go to link in slide --> explore data residency --> services not avialable in all regions
 click on browse --> vm 
 
-(click 2-3 times in a point at azure globe to see that )
+## Availability Zones
+ZONAL SERVICE : azure vm --> create vm --> avaialbility options ---> avialability zones --> select zone 
+ZONE REDUNDANT SERVICE : ZRS In azure storage account 
 
+## Region Pairs
 [region-pairs-ms-docs](https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure)
+
+## Walkthrough
+It's link of azure globe 
+(click 2-3 times in a point at azure globe to see that )
 
 ## Sovereign Regions (Azure for Government) : 
 - dedicated portal (https://portal.azure.us/)
 - Azure Government provides an extra layer of protection to customers through contractual commitments regarding storage of customer data in the United States and limiting potential access to systems processing customer data to screened US persons.
+
 ```
 https://docs.microsoft.com/en-us/azure/azure-government/compare-azure-government-global-azure
 https://azure.microsoft.com/en-in/global-infrastructure/government/?cdn=disable
 ```
+
+## Azure Resources
+Azure Resource make profit of yours.
+
+**Draw + slide**
+
+## Resource Group
+Portal
+
+## azure subscription
+
+## azure management group
+
+# compute & Networking
+
+**In portal + slide**
+
+
 ## Azure Virtual Desktop : 
 - (end user Computing) --> Helps you create a windows 10,11 like env on the cloud which can be pooled (shared to multiple people at same time) --> can set up max connection limit
  / individual use
