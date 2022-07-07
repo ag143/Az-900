@@ -75,3 +75,5 @@ You can also get TB's of data from Azure to your facility using same workflow as
 - based on Size of data : Data box disks, Data box Heavy and simply databox
 
 [Pricing + Details](https://azure.microsoft.com/en-us/services/databox/)
+
+[MS LEARN FOR MODULE 2](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals-describe-azure-architecture-services/)
