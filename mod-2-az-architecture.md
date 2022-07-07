@@ -30,13 +30,29 @@ It's link of azure globe
 https://docs.microsoft.com/en-us/azure/azure-government/compare-azure-government-global-azure
 https://azure.microsoft.com/en-in/global-infrastructure/government/?cdn=disable
 ```
-
-## Azure Resources
-Azure Resource make profit of yours.
-
 **Draw + slide**
 
+## Azure Resources
+Anything you create, provision, deploy, etc. is a resource. Virtual Machines (VMs), virtual networks, databases, cognitive services, etc. are all considered resources within Azure.
+Azure Resource makes profit of yours.
+
 ## Resource Group
+What is RG ? 
+A logical Container of Resources
+
+How it helps : 
+- lifecycle management : common lifecycle of underlying resources 
+- simple access control : access at RG level = access to all of its Resources
+
+It's properties : 
+- 1 Resource to only 1 RG
+- PARENT CHILD RELATIONSHIP
+- Resources can be moved : Some resources may be moved between resource groups, but when you move a resource to a new group, it will no longer be associated with the former group.
+
+What you can't do ?
+- RG Can't be nested 
+- RG can't be renamed
+
 Portal
 
 ## azure subscription
