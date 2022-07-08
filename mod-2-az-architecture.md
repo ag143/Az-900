@@ -66,17 +66,41 @@ Portal
 
 **In portal + slide**
 
+## VM 
+- VMs PROVIDE (IaaS) in the form of a virtualized server 
+- Just like your physical computer, you can customize all of the software running on your VM.
+[Show your VM] 
+
+## VM SCALE SET
+- you simply created multiple VMs with the same purpose
+
+**Availability Set** 
+
+
 
 ## Azure Virtual Desktop : 
 - (end user Computing) --> Helps you create a windows 10,11 like env on the cloud which can be pooled (shared to multiple people at same time) --> can set up max connection limit
  / individual use
+- multiple concurrent users on a single VM.
 - can be connected to your on-prem ADDS
 - you can login using web clinet or desktop/andriod/Ios client
 - host pools (the VM's used to create this, all have same os,size)
 
 ## Containers 
+> Some of my developers uses windows, while some mac os (I want a portable app)
 Containers are lightweight packages of your application code together with dependencies such as specific versions of programming language runtimes and libraries required to run your software services.
+- Containers are lightweight and designed to be created, scaled out, and stopped dynamically.
+ Hence more agile way of app development.
+> Ice cream machine choclate & strawberry 🍓 flavours if some glitch with choclate
+- Containers are often used to create solutions by using a microservice architecture. This architecture is where you break solutions into smaller, independent pieces
 
+## ACI 
+- Paas 
+
+## Azure Function
+Serverless : 
+- Azure Functions is an event-driven, serverless compute option that doesn’t require maintaining virtual machines or containers
+- Pay : you're only charged for the CPU time used while your function runs.
 
 ## Azure Migrate : 
 Azure Migrate provides a centralized hub to assess and migrate on-premises servers, infrastructure, applications, and data to Azure.
