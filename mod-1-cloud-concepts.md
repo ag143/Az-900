@@ -67,6 +67,16 @@ two of the biggest considerations are uptime (or availability) and the ability t
 Vertical Scalable : CPU/ RAM SPECIFICATIONS
 HORIZONTAL : 
 
+- Reliable : What if there a disaster in the region where your services are deployed ?
+With Azure's global scale you can fail over to other region. In some cases this happens auto
+Like GRS 
+
+* Reliability is the ability of a system to recover from failures and continue to function
+
+Also known as DR
+
+- predicting : cost (PRICING CAL + SUBSCRIPTION --> MSDN --> COST ANALYSIS)
+
 [MS-LEARN](https://docs.microsoft.com/en-gb/learn/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud)
 
 
