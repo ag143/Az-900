@@ -62,6 +62,10 @@ Identity and infrastructure
 ## Consumption based model
 
 ## Cloud Benefits -- 
+two of the biggest considerations are uptime (or availability) and the ability to handle demand (or scale
+- Scalability : Scalability refers to the ability to adjust resources to meet demand
+Vertical Scalable : CPU/ RAM SPECIFICATIONS
+HORIZONTAL : 
 
 [MS-LEARN](https://docs.microsoft.com/en-gb/learn/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud)
 
