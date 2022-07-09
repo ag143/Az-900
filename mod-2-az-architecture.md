@@ -5,17 +5,21 @@ you can help them reddem their azure pass
 
 ## Azure Physical Infra
 [MS learn](https://docs.microsoft.com/en-us/learn/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure)
-**Draw Diagram --:Read slide**
+> **Draw Diagram --:Read slide**
 
 ## Azure Regions 
+- A region is a geographical area on the planet that contains at least one, but potentially multiple datacenters that are nearby and networked together with a low-latency network.
+
 go to link in slide --> explore data residency --> services not avialable in all regions
 click on browse --> vm 
 
 ## Availability Zones
+- DC UNDER REGIONS
 ZONAL SERVICE : azure vm --> create vm --> avaialbility options ---> avialability zones --> select zone 
 ZONE REDUNDANT SERVICE : ZRS In azure storage account 
 
 ## Region Pairs
+- STORAGE ACCOUNT OVERVIEW : PRIMARY & SECONDARY REGION
 [region-pairs-ms-docs](https://docs.microsoft.com/en-us/azure/availability-zones/cross-region-replication-azure)
 
 ## Walkthrough
@@ -25,6 +29,9 @@ It's link of azure globe
 ## Sovereign Regions (Azure for Government) : 
 - dedicated portal (https://portal.azure.us/)
 - Azure Government provides an extra layer of protection to customers through contractual commitments regarding storage of customer data in the United States and limiting potential access to systems processing customer data to screened US persons.
+
+## Azure China
+- Microsoft doesn't directly maintain the datacenters.
 
 ```
 https://docs.microsoft.com/en-us/azure/azure-government/compare-azure-government-global-azure
@@ -86,6 +93,7 @@ Portal
 - you can login using web clinet or desktop/andriod/Ios client
 - host pools (the VM's used to create this, all have same os,size)
 
+**2 point in slide : The actual desktop and apps are running in the cloud, meaning the risk of confidential data being left on a personal device is reduced.
 ## Containers 
 > Some of my developers uses windows, while some mac os (I want a portable app)
 Containers are lightweight packages of your application code together with dependencies such as specific versions of programming language runtimes and libraries required to run your software services.
