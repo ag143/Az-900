@@ -94,6 +94,7 @@ Portal
 - host pools (the VM's used to create this, all have same os,size)
 
 **2 point in slide : The actual desktop and apps are running in the cloud, meaning the risk of confidential data being left on a personal device is reduced.
+
 ## Containers 
 > Some of my developers uses windows, while some mac os (I want a portable app)
 Containers are lightweight packages of your application code together with dependencies such as specific versions of programming language runtimes and libraries required to run your software services.
@@ -104,6 +105,9 @@ Containers are lightweight packages of your application code together with depen
 
 ## ACI 
 - Paas 
+
+## AKS
+-K8s, is an open-source system for automating deployment, scaling, and management of containerized applications
 
 ## Azure Function
 Serverless : 
