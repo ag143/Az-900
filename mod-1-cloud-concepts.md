@@ -58,8 +58,11 @@ Identity and infrastructure
 ## Model Comparision 
 
 ## Capex vs opex
+- CapEx is typically a one-time, up-front expenditure to purchase Resources
+- opex (operational + expenditure) : pay as you operate
 
 ## Consumption based model
+[Slide]
 
 ## Cloud Benefits -- 
 two of the biggest considerations are uptime (or availability) and the ability to handle demand (or scale
@@ -91,10 +94,17 @@ Also known as DR
 IaaS is similar to take and bake — you don’t have to shop for separate ingredients, but you still have to heat the oven, set the table and clean up. One level up is delivery — no oven to heat, but you still have to figure out drinks and dishes. One additional level up is going out to a restaurant, which is similar to SaaS, where you have the least work and you’re paying someone else to wash the dishes.
 
 ## iaas
+- You are a infra guy
+- Rent the hardware 
+- lift and shift migration
+- You need control of your app
 
 ## paas
+- it is developer friendly
+- **show app service** : Cloud features such as scalability, high-availability,
 
 ## saas 
+
 
 ## Comparison 
 
