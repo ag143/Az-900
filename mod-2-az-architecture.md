@@ -137,9 +137,7 @@ CHECK DOCS
 - Azure Storage offers two options for copying your data to a secondary region: geo-redundant storage (GRS) and geo-zone-redundant storage (GZRS). GRS is similar to running LRS in two regions, and GZRS is similar to running ZRS in the primary region and LRS in the secondary region.
 - secondary region read write not available unless primary unavailable.
 
-
-
-
+> Azure supports both real-time migration of infrastructure, applications, and data using Azure Migrate as well as asynchronous migration of data using Azure Data Box.
 
 ## Azure Migrate : 
 Azure Migrate provides a centralized hub to assess and migrate on-premises servers, infrastructure, applications, and data to Azure.
@@ -155,6 +153,27 @@ Azure Migrate provides a centralized hub to assess and migrate on-premises serve
 You can also get TB's of data from Azure to your facility using same workflow as above. 
 
 - based on Size of data : Data box disks, Data box Heavy and simply databox
+
+# IAM 
+## AAD SERVICE
+
+## MFA 
+search in windows connect --> cast in intex --> show authenticator app 
+
+## B2B 
+
+
+## B2C
+
+
+## conditional access 
+If then statement
+
+## RBAC 
+once you can login to azure now what permissions you have
+
+
+
 
 [Pricing + Details](https://azure.microsoft.com/en-us/services/databox/)
 
