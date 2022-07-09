@@ -156,15 +156,16 @@ You can also get TB's of data from Azure to your facility using same workflow as
 
 # IAM 
 ## AAD SERVICE
+Azure Active Directory (Azure AD) is Microsoft’s cloud-based identity and access management service, which helps your employees sign in and access resources
 
 ## MFA 
 search in windows connect --> cast in intex --> show authenticator app 
 
 ## B2B 
-
+Invite users 
 
 ## B2C
-
+APPLICATION --> SAML OAUTH TOKENS 
 
 ## conditional access 
 If then statement
@@ -172,7 +173,14 @@ If then statement
 ## RBAC 
 once you can login to azure now what permissions you have
 
+## zero trust
+TRSUT NO ONE :- because it’s within the corporate network, it requires everyone to authenticate. Then grants access based on authentication rather than location
 
+## Defence in depth
+To protect against security breach You can visualize defense-in-depth as a set of layers, so if one layer is broken. Your data is safe from attack.
+- perimeter layer just b4 network to protect my network like DDOS
+
+## MS DEFENDER FOR CLOUD
 
 
 [Pricing + Details](https://azure.microsoft.com/en-us/services/databox/)
