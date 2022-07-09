@@ -18,10 +18,8 @@ Owning a home is much better than renting if your requirements are stable, but i
 Cloud is not important only for IT Companies as almost every company is now IT enabled company - i.e relies heavily on IT like banks, Zomato , vedantu  
 
 ## What is cloud Computing 
-Cloud services also expand the traditional IT offerings to include things like Internet of Things (IoT), machine learning (ML), and artificial intelligence (AI).
-
-
-
+- delivery of computing resources over a network.
+- Cloud services also expand the traditional IT offerings to include things like Internet of Things (IoT), machine learning (ML), and artificial intelligence (AI).
 
 ## Shared Responsibility model
 **YOUR CLOUD SERVICE PROVIDER IS RESPONSIBLE FOR SECURITY OF THE CLOUD & AS CUSTOMERS YOU MANAGE IN THE CLOUD**
