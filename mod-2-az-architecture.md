@@ -109,10 +109,37 @@ Containers are lightweight packages of your application code together with depen
 ## AKS
 -K8s, is an open-source system for automating deployment, scaling, and management of containerized applications
 
+## Azure App Service 
+
+
 ## Azure Function
 Serverless : 
 - Azure Functions is an event-driven, serverless compute option that doesn’t require maintaining virtual machines or containers
 - Pay : you're only charged for the CPU time used while your function runs.
+
+## Azure Vnet 
+- Software emulation of your network
+- helps connect your azure resources (like VM,Databases, web apps etc) together or to the internet or other networks.
+
+## VPN 
+- VPNs can enable networks to safely and securely share sensitive information.
+- site to site & Point to site 
+
+## Azure ExpressRoute
+CHECK DOCS 
+
+## Azure DNS 
+- MS IS IN 140 + COUNTRIES --  DNS query is answered by the closest available DNS server to provide fast performance and high availability for your domain
+ - YOU CAN'T BUT DOMAIN HERE
+
+
+## azure storage account
+- Azure Storage offers two options for copying your data to a secondary region: geo-redundant storage (GRS) and geo-zone-redundant storage (GZRS). GRS is similar to running LRS in two regions, and GZRS is similar to running ZRS in the primary region and LRS in the secondary region.
+- secondary region read write not available unless primary unavailable.
+
+
+
+
 
 ## Azure Migrate : 
 Azure Migrate provides a centralized hub to assess and migrate on-premises servers, infrastructure, applications, and data to Azure.
