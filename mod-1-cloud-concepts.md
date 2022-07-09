@@ -77,6 +77,12 @@ Also known as DR
 
 - predicting : cost (PRICING CAL + SUBSCRIPTION --> MSDN --> COST ANALYSIS)
 
+- Security : MS Spends $1 Billion year on security of the cloud + AS developers we have services like **WAF**, **AZURE FIREWALL**, **AZURE DDOS** etc
+
+- Governance means your company standards, rules and regulations are followed in your Azure cloud env for which we have **RBAC, AZ BLUEPRINT, AZ POLICY**
+
+- easily manage Resources in more agile way [MS DOCS](https://docs.microsoft.com/en-gb/learn/modules/describe-benefits-use-cloud-services/5-manageability-cloud)
+
 [MS-LEARN](https://docs.microsoft.com/en-gb/learn/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud)
 
 
