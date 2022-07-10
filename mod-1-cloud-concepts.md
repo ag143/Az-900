@@ -2,12 +2,18 @@
 
 In 1 module, you’ll be introduced to general cloud concepts. You’ll start with an introduction to the cloud in general. Then you'll dive into concepts like shared responsibility, different cloud models, and explore the unique pricing method for the cloud.
 
+Ac to Wikipedia `Computation` is any type of arithmetic or non-arithmetic calculation that follows a well-defined model (e.g., an algorithm
+
 Basic terms : 
 **draw diagram**
 
-- servers 
+The basic need of every company : 
+- servers : Servers can provide various functionalities, often called "services", such as sharing data or resources among multiple clients, or performing computation for a client
+>  The sever must be generating data that néds to be stored 
 - storage
-- network
+> You also need to send / recieve data to others 
+- network : 
+> We can't forget security
 - identity provider 
 
  The company is responsible for maintaining the physical space, ensuring security, and maintaining or replacing the servers if anything happens. The IT department is responsible for maintaining all the infrastructure and software needed to keep the datacenter up and running. They’re also likely to be responsible for keeping all systems patched and on the correct version
