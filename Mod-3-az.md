@@ -14,4 +14,4 @@ Cost Management provides the ability to quickly check Azure resource costs, crea
 
 ## Tags 
 
-[Azure Policy Tutorial]()
+[Azure Policy Tutorial](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage)
