@@ -1,5 +1,6 @@
 ## azure arc
-- attach azure policy to other clouds or on prem servers
+- attach azure policy or RBAC to other clouds or on prem servers
+- azure governance extends to other places
 - Centrally manage a wide range of resources including Windows and Linux servers, SQL server, Kubernetes clusters, and Azure services.
 
 ## factors affecting cost
