@@ -137,6 +137,12 @@ CHECK DOCS
 - Azure Storage offers two options for copying your data to a secondary region: geo-redundant storage (GRS) and geo-zone-redundant storage (GZRS). GRS is similar to running LRS in two regions, and GZRS is similar to running ZRS in the primary region and LRS in the secondary region.
 - secondary region read write not available unless primary unavailable.
 
+```
+azcopy make "https://<storage-account-name.blob.core.windows.net/mycontainer_name"
+azcopy copy "local-file-path" "https://<storage-account-name>.blob.core.windows.net/<container-name>/<blob-name>"
+
+```
+
 > Azure supports both real-time migration of infrastructure, applications, and data using Azure Migrate as well as asynchronous migration of data using Azure Data Box.
 
 ## Azure Migrate : 
