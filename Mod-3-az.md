@@ -14,4 +14,21 @@ Cost Management provides the ability to quickly check Azure resource costs, crea
 
 ## Tags 
 
+## locks
+- Resource locks apply regardless of RBAC permissions. Even if you're an owner of the resource, you must still remove the lock before you can perform the blocked activity
+
 [Azure Policy Tutorial](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage)
+
+## azure blueprint
+- what should be deployed) and the blueprint assignment (what was deployed)
+- Azure Blueprints you can define repeatable settings and policies that are applied as new subscriptions are created.
+- Blueprint Artefacts 
+- ARM Templates - Use It for creation of resources
+- Resource Groups - Specify the resource groups you want to create
+- Roles Assignments - Apply IAM roles to the deployed resource groups to apply permissions to users and/or groups
+- Policies Assignments - Apply Azure Policies and/or Initiatives to your environments
+
+## Service trust portal 
+```
+https://servicetrust.microsoft.com/
+```
