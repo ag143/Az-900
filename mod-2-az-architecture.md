@@ -143,6 +143,10 @@ azcopy copy "local-file-path" "https://<storage-account-name>.blob.core.windows.
 
 ```
 
+**Azure file sync**
+- Azure File Sync additionally has the ability to transform Windows Server into a quick cache of your Azure file share
+- Most recently accessed file in local server (for quick access) and least visited in the cloud [cloud tiering]
+
 > Azure supports both real-time migration of infrastructure, applications, and data using Azure Migrate as well as asynchronous migration of data using Azure Data Box.
 
 ## Azure Migrate : 
