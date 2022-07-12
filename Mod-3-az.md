@@ -1,3 +1,7 @@
+## azure arc
+- attach azure policy to other clouds or on prem servers
+- Centrally manage a wide range of resources including Windows and Linux servers, SQL server, Kubernetes clusters, and Azure services.
+
 ## factors affecting cost
 
 #### visit pricing calculator 
