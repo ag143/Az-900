@@ -144,6 +144,7 @@ azcopy copy "local-file-path" "https://<storage-account-name>.blob.core.windows.
 ```
 
 **Azure file sync**
+- Windows server, it will automatically stay bi-directionally synced with your files in Azure.
 - Azure File Sync additionally has the ability to transform Windows Server into a quick cache of your Azure file share
 - Most recently accessed file in local server (for quick access) and least visited in the cloud [cloud tiering]
 
